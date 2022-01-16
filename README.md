@@ -1,7 +1,7 @@
-# Personal_Planner_BackEnd_Service
+# Personal_Planner_BackEnd_Service FAQ's
 
-## For running this project, type below in a terminal
-./mvnw spring-boot:run
+## How to run this project?
+Type in terminal as follows: ./mvnw spring-boot:run
 
 ## How to find a process runnning on port 8080?
 Type in admin cmd as follows: netstat -a -n -o | find "8080"
